@@ -1,0 +1,3 @@
+LIBRARY Ccircumradii8.pyd
+EXPORTS
+PyInit_Ccircumradii8

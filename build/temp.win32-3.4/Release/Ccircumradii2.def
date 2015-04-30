@@ -1,0 +1,3 @@
+LIBRARY Ccircumradii2.pyd
+EXPORTS
+PyInit_Ccircumradii2
