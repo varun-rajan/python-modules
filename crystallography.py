@@ -3,8 +3,6 @@ import fractions
 import mymath as Mmath
 import scipy.linalg as spla
 
-# beep boop
-
 def computeK(materialprops,aold,anew,burgersvector,dislocationtype='partial'):
     Kic, Gic, A = computeKic(aold,anew,materialprops)
     Kie = computeKie(aold,anew,burgersvector,dislocationtype,materialprops)
